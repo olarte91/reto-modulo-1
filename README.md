@@ -1,18 +1,18 @@
-## Getting Started
+# Sistema Básico de Registro y Promedio de Estudiantes
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+---
 
-## Folder Structure
+## Descripción del Proyecto
 
-The workspace contains two folders by default, where:
+Este es un programa sencillo desarrollado en Java que permite **registrar estudiantes** y **calcular el promedio de tres notas** para cada uno de ellos. La interacción con el usuario se realiza completamente a través de la **consola**.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Características Principales
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* **Registro de Estudiantes:** Permite ingresar los datos básicos de un estudiante.
+* **Cálculo de Promedio:** Calcula el promedio de tres notas para un estudiante específico.
+* **Interacción por Consola:** Toda la funcionalidad se maneja a través de la interfaz de línea de comandos, lo que lo hace un sistema básico y fácil de usar.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologías Utilizadas
 
-## Dependency Management
+* **Java 21**
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
